@@ -1,0 +1,8 @@
+{
+  "name": "Générateur de Bookfold Art",
+  "description": "Générateur professionnel de patrons et guides de pliage de livres (Measure, Mark & Fold) à partir de texte ou d'image avec export PDF et version HTML autonome pour Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
